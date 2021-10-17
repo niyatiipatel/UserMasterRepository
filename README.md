@@ -19,7 +19,7 @@ Username = postgres
 Password = test
 
 Instructions to download project through GitHub:
-1.	Go to the below URL in GitHub https://github.com/niyatiipatel/ContributeToCommunityRepo/tree/master
+1.	Go to the below URL in GitHub https://github.com/niyatiipatel/UserMasterRepository
 2.	Clone the project “UserMasterRepo”.
 3.	After downloading/unzipping the project, create docker container images as per the instructions below.
 
